@@ -1,0 +1,29 @@
+DATA CENTER = ON PREMISES  IN SERVICE 
+
+USE : TEST AND DEPLOYEMNT
+	BIG DATA ANALYSTICS
+	STORAGE
+	DATA BACKUP 
+	HOSTING SERVICES
+	 
+	EX HOTSTAR
+
+BENIFITS:
+		COST , GLOBAL SCALE , LOW MAINTAINCE , COSTSECURE,UNLIMITED SOTRAGE
+			
+		SPEED,  10 X FASTER 
+		
+5000 user group 
+
+1 user 10 group access
+
+1 c
+
+
+two key types :
+	
+		access
+		assoword
+
+pubilc
+private

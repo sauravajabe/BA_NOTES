@@ -1,0 +1,190 @@
+ BA = BUISNESS ANALYTICS 
+
+DESCISION MAKING
+
+q) WHY YOU CHOOSE THE COMPUTER SCIENCE
+ANS = WHAT I UNDERSTANS SIR THAT , THERE IS NO REQUIRMENT OF ANY SUBJECT TO BECOME AN COMPUTER SCIENCE 
+IRRESPECTIVE OF ANY BRANCH COMP SCI CAN BE IMPLEMENTED 
+
+PROPER ANALYTICS =  ETL TESTING = DECISION MAKING 
+
+QULITY FACTORS::
+
+1 ) COUSTMER REQUIRMANT
+2 ) COUSTMER EXPECTATION
+
+THS TWO FACTOR ARE INMPORTANT IN TESTING PROSPECTIVE
+
+
+
+3)  PRICE OF SOFTWERE
+4) TIMELY DELIVERABLE 
+5) RISK MANAGMANT ::  IF SOME PROBLEM COMES THEN HOW TO SOLVE IT 
+
+ sqa = softwere qulity assurence
+
+to moniter and mesure thee stregth of dev team
+
+a sw releted issue solved by sq eng through a sw eng process
+
+
+sdlc = sw dev life cycle 
+
+
+
+INTENET OF SPPECH : MEANS REQIRMENTS AND THERE SPECIFIACTION
+	=============================================
+Q) what is the significansce of testing ?
+
+ans = quility defines various parameter .i.e.
+      1) coustmere requirment 
+      2) coustmer expectatipon 
+Q) why you prefer as tester not devoloper ?
+ans = 
+     sir what i undestand the in last few years back the market
+ follows the monopoly system  and in current situvation market 
+ follws the oligopoly system that means huge compition and 
+it means to survive in the market ,organsisatiom has to deliver 
+ a good product and to achive the quality product organisation
+has to concentrate on testing 
+
+Q) what are the two apporeces that are used to achive the quilty
+ product
+
+ans = 1) design roboust code 
+      2)  remove all defect 
+
+approche two is practically  possible
+the test eniginner is responible to improvise the code 
+
+
+Q) what is the ratio of testr and devo in it company ?
+
+ans = this is for web application it is 3:1  .i.e. devoloper : tester
+
+and for ai and ml the ratio is 1: 7 
+==================================================================
+SDLC = SOFTWERE DEVOLOPMENT LIFE CYCLE
+ 
+3 GENRIC PHASE
+
+WHAT                       HOW                   MODIFICATION
+ 
+
+COUSTMER REQUIREMENT       DESIGN                 CORRECTION
+ANALYSIS                   COADING                ADAPTIBILITY
+                           TESTING                REEINGINERING
+                                                  ENHANCEMANT
+
+
+STAGES OF SDLC :
+
+1) COUSTMER REQUIRMENT :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========================================================
+
+brs = business reqirmetn specification  done  by BA 
+
+
+THIS DOCUMENT DEFINES REQIURMENT OF COUSTMER TO BE DEVOLOPED AS 
+S/W
+
+T ACTS AS A BRIDGE BET COUSTMER AND TECHNICAL CANDIDATES 
+
+
+SRS : S/W REQIRMENT SPECIFICATION 
+     BUSINESS ANAKYST IS RESPONSIBLE FOR TO DESIGN SRS
+
+SRS DEFINES FUNCTIONAEL REQ TO BE  DEVOLOPED AND SYSTEM REQ TO BE
+ BE USED
+
+FUNCTIONS :
+ADD - ADDRESS
+      COUNTRY
+      NAME
+       ZIP CODE 
+EDIT - ADDRESS
+       ADDRESS
+      COUNTRY
+      NAME
+       ZIP CODE
+MODIFIY - ADDRESS
+        ADDRESS
+      COUNTRY
+      NAME
+       ZIP CODE
+
+
+q) WHAT IT CONSIST (SRS) ?
+ANS 
+    
+1) FUNCTIONAL REQUIRMENT
+2) USE CASE : BUSINESS COUNDTION 
+3) FUNCTIONAL FLOW DIGRAM 
+4) FLOW CHART 
+5) ENVOIMENTAL DETAILS
+6) PROROTYPES = A SAMPLE MODEL OF AN APPLICATION WITHOUT FUCNTIONALITY
+
+----------------------------------------------------
+2)  USE CASE :BUSINESS COUNDTION :
+LOG IN IS FUNCTION 
+
+AID ,PASSWORD 
+
+UC1:END USER CAN ENTER THE DATA . LEGTH MAX = 8
+UC2: END USER CAN NETER THE PASS . LEGTH MAX  = 5
+UC3: IF VALID SUUCEFULL MESSAGE ELSE ERROR MESSAGE 
+--------------------------------------------------------
+
+UC1:END USER CAN ENTER THE DATA . LEGTH MAX = 8
+
+TEXT BOX : MIN =1, MAX = 8, IF BALNK ERROR MESSAGE
+
+
+
+-----------------------------------------------
+UC2: END USER CAN NETER THE PASS . LEGTH MAX  = 5
+
+TEXT BOX : MIN1 ,MAX = 8 ,BLANK - ERROR MESSAGE ,ENCRYPTED
+
+-----------------------------------------------
+C3: IF VALID SUUCEFULL MESSAGE ELSE ERROR MESSAGE 
+
+AID     PASS
+Y        Y        SUCCES 
+Y        N        FAIL
+Y        N =      FAIL
+N       Y       FAIL
+BLANK   BLANK    FAIL
+
+=================================================
+
+FUNCTINAL FLOW DIGRAM :  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
